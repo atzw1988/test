@@ -9,7 +9,7 @@ import { VueAxios } from './utils/request'
 
 // mock
 import './mock'
-// 测试
+// 测试修改
 
 import bootstrap from './core/bootstrap'
 import './core/use'
